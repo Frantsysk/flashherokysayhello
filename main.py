@@ -16,4 +16,4 @@ def greet():
     return render_template("index.html")
 
 
-app.run(debug=True, port=33500)
+# app.run(debug=True, port=33500)
